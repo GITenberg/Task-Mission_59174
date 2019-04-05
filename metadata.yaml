@@ -1,11 +1,16 @@
 _repo: Task-Mission_59174
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59174-h/images/cover.jpg
 creator:
   author:
     agent_name: Holden, Fox B.
     gutenberg_agent_id: '35294'
     url: http://www.gutenberg.org/2009/agents/35294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59174#Task-Mission
 gutenberg_issued: '2019-03-31'
 gutenberg_type: Text
 identifiers:
